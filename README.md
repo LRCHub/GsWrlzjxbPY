@@ -1,0 +1,78 @@
+# New Edition – Mr. Telephone Man
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.60] Mr. Telephone man
+[00:23.48] There's something wrong with my line
+[00:26.18] When I dial my baby's number
+[00:28.65] I get a click every time
+[00:30.94] Mr. Telephone man
+[00:33.89] There's something wrong with my line
+[00:36.54] When I dial my baby's number
+[00:39.01] I get a click every time
+[00:51.01] 
+[00:42.39] When I dial 611 to get a service
+[00:47.35] She said, "Hello, may I help you please?"
+[00:52.92] I told her, "Something must be wrong with my phone
+[00:56.42] 'Cause my baby wouldn't hang up on me"
+[01:15.42] 
+[01:01.24] Mr. Telephone man
+[01:04.59] There's something wrong with my line
+[01:07.04] When I dial my baby's number
+[01:09.38] I get a click every time
+[01:11.84] Mr. Telephone man
+[01:14.54] There's something wrong with my line
+[01:17.29] When I dial my baby's number
+[01:19.80] I get a click every time
+[01:31.80] 
+[01:23.25] She let the phone ring 20 times before she answered
+[01:28.44] Let me tell you what happen then
+[01:33.31] A minute later, I got the operator
+[01:37.73] Saying, "Please hang up and place your call again, baby"
+[02:05.73] 
+[01:42.76] Mr. Telephone man
+[01:45.65] There's something wrong with my line
+[01:47.95] When I dial my baby's number
+[01:50.40] I get a click every time
+[01:52.66] Mr. Telephone man
+[01:54.50] Somethin's wrong with my line (wrong with my line)
+[01:57.49] I try to dial her number (dial my baby's number)
+[02:00.56] I get a click every time
+[02:12.56] 
+[02:03.88] Some strange man is on the telephone (the telephone)
+[02:09.07] Keeps telling me my baby ain't home (that she's not home)
+[02:14.12] She ain't got no party line
+[02:16.42] The situation's blowin' my mind
+[02:19.07] Oh, I just can't take this anymore
+[02:36.07] 
+[02:25.86] Please operator
+[02:27.15] See what you can do
+[02:28.16] I dialed the right number
+[02:30.21] But I still couldn't get though
+[02:34.86] Would you just check the line
+[02:36.28] Just one more time if you can
+[02:38.26] I'm pretty sure my phone wouldn't be answered by no man
+[03:05.76] 
+[02:43.45] Mr. Telephone man
+[02:46.63] There's something wrong with my line
+[02:49.34] When I dial my baby's number
+[02:51.50] I get a click everytime
+[02:53.88] Mr. Telephone man
+[02:56.14] Somethin's wrong with my line (wrong with my line)
+[02:59.09] I try to dial her number (dial my baby's number)
+[03:01.83] I get a click everytime
+[03:13.33] 
+[03:05.18] Must be a bad connection
+[03:06.91] I give her my love and affection (she's had it all)
+[03:11.76] I just can't take this no more
+[03:14.15] This situation blowin' my mind (blowin' my mind)
+[03:20.36] Can't get my baby on the line (on the line)
+[03:25.62] I tried dialing information (Mr. Telephone man)
+[03:31.05] I can't get no cooperation (Mr. Telephone man)
+[03:54.05] 
+[03:35.83] The system on the phone, telling me my baby ain't at home
+[03:40.72] Ah, baby, I just can't take this anymore
+[03:45.94] Help me out, please Mr. Telephone man
+[03:51.30] Help me out, please Mr. Telephone man
+```
