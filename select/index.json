@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Mr. Telephone Man",
+  "base_artist": "New Edition",
+  "createdAt": "2026-03-03T09:55:41.583262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "Erykah Badu",
+      "has_synced": true,
+      "path": "select/01_Mr._Telephone_Man_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "k-os",
+      "has_synced": false,
+      "path": "select/02_Mr._Telephone_Man_k-os.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/03_Mr._Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/04_Mr._Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/05_Mr._Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": false,
+      "path": "select/06_Mr._Telephone_Man_New_Edition.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "Dream",
+      "has_synced": false,
+      "path": "select/07_Mr._Telephone_Man_Dream.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man (Album Version)",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/08_Mr._Telephone_Man_(Album_Version)_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man (Remix)",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/09_Mr._Telephone_Man_(Remix)_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "Erykah Badu",
+      "has_synced": true,
+      "path": "select/10_Mr._Telephone_Man_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/11_Mr._Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man (Remix)",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/12_Mr._Telephone_Man_(Remix)_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/13_Mr._Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr Telephone Man",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/14_Mr_Telephone_Man_New_Edition.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Telephone Man",
+      "artist": "New Edition",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Telephone_Man_New_Edition.txt"
+    }
+  ]
+}
